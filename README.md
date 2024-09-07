@@ -26,3 +26,69 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsanthoshhh&show_icons=true&locale=en" alt="iamsanthoshhh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsanthoshhh&" alt="iamsanthoshhh" /></p>
+
+<div id="stats" class="statsSection section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <div class="statistics">
+              <h2 style="font-style: normal;">Statistics</h2>
+              <p>Some of my stats throughout the years</p>              
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 text-center">
+            <div class="squareItem">
+              <div class="squareInnerContainer">
+                <div class="squareIcon">
+                  <i class="fas fa-laptop"></i>
+                </div>
+                <div class="squareContent">
+                  <h2 class="counter">6</h2>
+                  <h3 style="font-familY:Lucida Script, Segoe Script, Brush Script MT, cursive;">Projects Done</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="squareItem">
+              <div class="squareInnerContainer">
+                <div class="squareIcon">
+                  <i class="fa fa-book"></i>
+                </div>
+                <div class="squareContent">
+                  <h2 class="counter">3</h2>
+                  <h3 style="font-familY:Lucida Script, Segoe Script, Brush Script MT, cursive;">Research Works</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="squareItem">
+              <div class="squareInnerContainer">
+                <div class="squareIcon">
+                  <i class="fa fa-globe"></i>
+                </div>
+                <div class="squareContent">
+                  <h2 class="counter">10+</h2>
+                  <h3 style="font-familY:Lucida Script, Segoe Script, Brush Script MT, cursive;">Activities Participated</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="squareItem">
+              <div class="squareInnerContainer">
+                <div class="squareIcon">
+                  <i class="fa fa-file"></i>
+                </div>
+                <div class="squareContent">
+                  <h2 class="counter">10+</h2>
+                  <h3 style="font-familY:Lucida Script, Segoe Script, Brush Script MT, cursive;">Certifications Obtained</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
