@@ -31,7 +31,7 @@
 
 Some of my stats throughout the years
 
-| ![Laptop Icon](https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-laptop-devices-flat-icons-inmotus-design.png) | ![Book Icon](https://img.icons8.com/ios/50/000000/book.png) | ![Globe Icon](https://img.icons8.com/ios-filled/50/000000/globe.png) | ![File Icon](https://img.icons8.com/ios/50/000000/document.png) |
+| ![Laptop Icon](https://img.icons8.com/ios/50/000000/monitor--v1.png) | ![Book Icon](https://img.icons8.com/ios/50/000000/book.png) | ![Globe Icon](https://img.icons8.com/ios-filled/50/000000/globe.png) | ![File Icon](https://img.icons8.com/ios/50/000000/document.png) |
 |:--:|:--:|:--:|:--:|
 | **Projects Done** | **Research Works** | **Activities Participated** | **Certifications Obtained** |
 | **6** | **3** | **10+** | **10+** |
