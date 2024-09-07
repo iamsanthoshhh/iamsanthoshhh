@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-linkedin-banner-template_23-2150360356.jpg)](https://iamsanthoshhh.github.io/MyPortFolio/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHHPkZwBxMHiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708086862984?e=1730937600&v=beta&t=fD1sd88i8t7DFsH-BG18o0i5G9rShzV2OJ8Ae_Yh0cU)](https://iamsanthoshhh.github.io/MyPortFolio/)
 <h1 align="center">Hi 👋, I'm Santhosh Ravichandran</h1>
 <h3 align="center">A passionate ML Engineer and Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
